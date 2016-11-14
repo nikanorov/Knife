@@ -219,7 +219,7 @@ public class KnifeParser {
         }
 
         for (int i = 0; i < nl; i++) {
-            out.append("<br>");
+            out.append("<br />");
         }
     }
 
